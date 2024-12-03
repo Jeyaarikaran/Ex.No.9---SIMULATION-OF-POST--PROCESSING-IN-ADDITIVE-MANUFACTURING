@@ -46,6 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![screen shot 2024-12-03 at 18 50 21_4cf2d5eb](https://github.com/user-attachments/assets/fe54e7b6-70ff-4472-aca4-1480181325a4)
+![screen shot2024-12-03 at 18 50 29_96585e0a](https://github.com/user-attachments/assets/cee33d79-3b98-4057-a8b7-0949ebe4af73)
+![screen shot 2024-12-03 at 18 50 25_5189f226](https://github.com/user-attachments/assets/bd9c1ecb-234b-4a5c-a757-93cadfce7fbf)
+![screen shot 2024-12-03 at 18 50 31_f3e402e0](https://github.com/user-attachments/assets/d9f049ae-ba67-46e5-ad25-31e25a8d97b5)
+
 
 ### Name:
 ### Register Number:
